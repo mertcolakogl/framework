@@ -1,0 +1,14 @@
+{
+  "name": "com.gambit.framework",
+  "version": "1.0.1",
+  "displayName": "Fischer Framework",
+  "description": "Framework from Interface to Services, Commands, Haptics, Events and Resources, powered by CBK x MC",
+  "unity": "6000.0",
+  "unity-release": "6000.0.80f1",
+  "dependencies": {},
+  "author": {
+    "name": "Mert Colakoglu",
+    "email": "mert@gambitgamestudio.com",
+    "url": "https://github.com/mertcolakogl/framework"
+  }
+}
